@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230086
+# Name:GuhanK
+# Date:20.11.2026
 
 
 # AIM:
@@ -40,7 +40,7 @@ Specifying the context and requirements of a system
 
 
 
-
+<img width="881" height="866" alt="se2" src="https://github.com/user-attachments/assets/df238004-46c9-48ee-b2ad-6720f270f971" />
 
 
 
@@ -58,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1269" height="952" alt="se2 1" src="https://github.com/user-attachments/assets/f197b7f1-b805-4a36-91b0-6ceee92345cc" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1197" height="945" alt="se2 2" src="https://github.com/user-attachments/assets/426a4799-8c3a-4773-b0c0-4d2823c6dbb3" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +81,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1309" height="991" alt="se2 3" src="https://github.com/user-attachments/assets/d1677953-ccf3-417c-ab8b-382f50e380a6" />
 
 
 
@@ -97,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="954" height="729" alt="se2 4" src="https://github.com/user-attachments/assets/8cbe1436-cc17-4a6c-8e4c-e4c48161202d" />
 
 
 
@@ -117,6 +121,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="902" height="782" alt="se2 5" src="https://github.com/user-attachments/assets/908ca0d8-03f2-4fef-82ad-d2299ba754ed" />
 
 
 
